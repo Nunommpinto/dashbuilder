@@ -31,29 +31,29 @@ It also allows two or more distinct features to be implemented at a time and thi
 ### Contributing
 <br>
 The official team of this project is made up of:<br>
-&nbsp;	-One project leader: David Gutiérrez<br>
-&nbsp;	-One quality assurance & testing specialist: Jan Hrček<br>
-&nbsp;	-One release manager: Michael Biarnés<br>
-&nbsp;	-Five core developers:<br>
-&nbsp;&nbsp;		Pere Fernàndez<br>
-&nbsp;&nbsp;		Roger Martínez<br>
-&nbsp;&nbsp;		Walter Medvedeo<br>
-&nbsp;&nbsp;		Neus Miras<br>
-&nbsp;&nbsp;		Jan Schatteman<br>
+&nbsp;&nbsp;&nbsp;&nbsp;	-One project leader: David Gutiérrez<br>
+&nbsp;&nbsp;&nbsp;&nbsp;	-One quality assurance & testing specialist: Jan Hrček<br>
+&nbsp;&nbsp;&nbsp;&nbsp;	-One release manager: Michael Biarnés<br>
+&nbsp;&nbsp;&nbsp;&nbsp;	-Five core developers:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;		Pere Fernàndez<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;		Roger Martínez<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;		Walter Medvedeo<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;		Neus Miras<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;		Jan Schatteman<br>
 <br>
 With the remaining project contribuitors listed here:<br>
-&nbsp;&nbsp;		Petr Široký<br>
-&nbsp;&nbsp;		George Kankava<br>
-&nbsp;&nbsp;		kiereleaseuser (only information available was github username)<br>
-&nbsp;&nbsp;		Eder Ignatowicz<br>
-&nbsp;&nbsp;		Cristiano Nicolai<br>
-&nbsp;&nbsp;		Alexandre Porcelli<br>
-&nbsp;&nbsp;		Max Barkley<br>
-&nbsp;&nbsp;		Maciej Swiderski<br>
-&nbsp;&nbsp;		Paulo Martins<br>
-&nbsp;&nbsp;		Christian Sadilek<br>
-&nbsp;&nbsp;		Salaboy (also only his github username)<br>
-&nbsp;&nbsp;		Guilherme Carreiro<br>
+&nbsp;&nbsp;&nbsp;&nbsp;		Petr Široký<br>
+&nbsp;&nbsp;&nbsp;&nbsp;		George Kankava<br>
+&nbsp;&nbsp;&nbsp;&nbsp;		kiereleaseuser (only information available was github username)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;		Eder Ignatowicz<br>
+&nbsp;&nbsp;&nbsp;&nbsp;		Cristiano Nicolai<br>
+&nbsp;&nbsp;&nbsp;&nbsp;		Alexandre Porcelli<br>
+&nbsp;&nbsp;&nbsp;&nbsp;		Max Barkley<br>
+&nbsp;&nbsp;&nbsp;&nbsp;		Maciej Swiderski<br>
+&nbsp;&nbsp;&nbsp;&nbsp;		Paulo Martins<br>
+&nbsp;&nbsp;&nbsp;&nbsp;		Christian Sadilek<br>
+&nbsp;&nbsp;&nbsp;&nbsp;		Salaboy (also only his github username)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;		Guilherme Carreiro<br>
 <br>
 ### Releases
 
